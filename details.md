@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Details
+title: DETAILS
 permalink: /home/
 ---
 
