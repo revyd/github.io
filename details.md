@@ -5,7 +5,7 @@ permalink: /home/
 ---
 
 <div class="home">
-  <img src="{{ site.url }}/assets/banner.png"/>
+  <img src="{{ site.url }}/assets/1conf_2019.jpg"/>
 
 
 </div>
