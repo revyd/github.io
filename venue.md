@@ -3,4 +3,5 @@ layout: page
 title: VENUE
 permalink: /venu/
 ---
-TBD
+
+Yet to be determined but stay tuned.
